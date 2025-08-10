@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi 👋, I'm Nabilah
+Software Developer | Web Apps | Frontend & Backend
 
-<!--
-**nabilahks/nabilahks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 Telecommunications Engineering graduate from PENS (cum laude).
+💻 I build modern web apps with React/Next.js and Node.
+🧪 I love learning & researching the latest software technologies, and I take freelance projects in my spare time.
+🧩 Interests: UI engineering, developer experience (DX), performance, and testing.
 
-Here are some ideas to get you started:
+Tech Stack
+Programming & Scripting
+TypeScript  JavaScript  Python  Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend & UI
+React  Next.js  Vue  HTML5  CSS3  Tailwind CSS  Bootstrap  Material UI  Ant Design
+
+Backend & APIs
+Node.js  Express.js  REST
+
+Databases
+MongoDB  MySQL
+
+Dev Tools
+Git  GitHub  Visual Studio Code  Postman  Docker
+
+Connect with Me
+mailto:nabilahksunarto@gmail.com  •  https://nebcode.com  •  https://linkedin.com/in/nabilahksunarto/  •  https://medium.com/@nabilahks
