@@ -14,9 +14,9 @@
 ## Tech Stack
 **Programming & Scripting:** TypeScript, JavaScript, Go, Python, Markdown  
 **Frontend & UI:** React, Next.js, Vue, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design  
-**Backend & APIs:** Node.js, Express.js, REST  
+**Backend & APIs:** Node.js, Express.js, REST, Go Fiber
 **Databases:** MongoDB, MySQL  
-**Dev Tools:** Git, GitHub, Visual Studio Code, Postman, Docker
+**Dev Tools:** Git, GitHub, Visual Studio Code, Postman, Docker, Microsoft Visual Studio
 
 ## Connect
 - ✉️ **Email:** nabilahksunarto@gmail.com
