@@ -16,7 +16,6 @@
 - ✍️ Enjoy learning new technologies, writing technical articles, and doing freelance projects in my free time
 - ⚒️ Software Engineer in the Insurance & Enterprise Technology Industry
 
-
 ---
 
 ## 🚀 What I Work With
@@ -75,7 +74,6 @@
 
 - **[Mediaagni Tools](https://tools.mediaagni.com/)**  
   A curated digital tools catalog to support technology and productivity needs.
-
 ---
 
 ## 📊 GitHub Stats
@@ -83,6 +81,7 @@
 <p align="center">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabilahks&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilahks&layout=compact&langs_count=8&theme=algolia"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nabilahks&theme=algolia&count_private=true&border_radius=10&locale=en" alt="nabilahks's" />
 </p>
 
 ---
