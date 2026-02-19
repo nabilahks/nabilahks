@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabilah KS </h1>
 <h3 align="center">
-  Software Engineer • Enterprise Tech • Lifelong Learner
+  Software Engineer • Enterprise Tech • Longlife Learner
 </h3>
 
 <p align="center">
